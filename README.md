@@ -11,9 +11,9 @@
 > Built primarily in **Excel (Power Pivot)** with a small **Python** step for clean inputs and QA. This repo showcases the **Excel deliverables**.
 
 ## Files
-- `dashboards/OnlineRetail_Dashboard_v1.xlsx` – 4-sheet Excel dashboard (interactive slicers/Timeline)
+- `dashboards/Online Retail Dashboard - V1.xlsx` – 4-sheet Excel dashboard (interactive slicers/Timeline)
 - `reports/OnlineRetail_Cleaning_Report_v1.xlsx` – multi-sheet QA/report (Executive summary, QA tables, Dictionary); including worksheet sample 25k for reference
-- `docs/OnlineRetail_OnePager_Credited.(docx|html)` – one-page case study
+- `reports/Retail Data Cleaning - Summary.docs` – one-page case study
 
 ## How to use
 1. **Open the Excel files** directly (Excel 365 recommended).  
